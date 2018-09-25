@@ -8,6 +8,7 @@
         <groupId>it.codedoge</groupId>
         <artifactId>hello-mvn-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
+        <relativePath>../hellomvnparent</relativePath>
     </parent>
 
     <groupId>it.codedoge</groupId>

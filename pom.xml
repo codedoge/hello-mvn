@@ -10,9 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>../hellomvnparent</module>
-        <module>../dognameprovider</module>
-        <module>../hello</module>
+        <module>hellomvnparent</module>
+        <module>dognameprovider</module>
+        <module>hello</module>
     </modules>
 
     <distributionManagement>

@@ -17,14 +17,14 @@
 
     <distributionManagement>
         <repository>
-            <id>nabs-releases</id>
-            <name>artifactory-releases</name>
-            <url>http://artifactory.deloitte-audit-analytics.com/artifactory/nabs2</url>
+            <id>test</id>
+            <name>test</name>
+            <url>http://artifactory.deloitte-audit-analytics.com/artifactory/test</url>
         </repository>
         <snapshotRepository>
-            <id>nabs-snapshots</id>
-            <name>artifactory-snapshots</name>
-            <url>http://artifactory.deloitte-audit-analytics.com/artifactory/nabs2-snapshots</url>
+            <id>test</id>
+            <name>test</name>
+            <url>http://artifactory.deloitte-audit-analytics.com/artifactory/test</url>
         </snapshotRepository>
     </distributionManagement>
 

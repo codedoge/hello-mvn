@@ -42,16 +42,9 @@
             <dependency>
                 <groupId>it.codedoge</groupId>
                 <artifactId>name-provider</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>it.codedoge</groupId>
-                <artifactId>dog-name-provider</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
+                <version>[1.0.0-SNAPSHOT,2.0.0-SNAPSHOT)</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-
 
 </project>

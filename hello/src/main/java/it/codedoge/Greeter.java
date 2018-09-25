@@ -1,3 +1,5 @@
+package it.codedoge;
+
 import it.codedoge.NameProvider;
 
 public class Greeter {

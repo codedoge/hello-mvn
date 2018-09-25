@@ -1,4 +1,5 @@
 import it.codedoge.DogNameProvider;
+import it.codedoge.Greeter;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

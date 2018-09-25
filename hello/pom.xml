@@ -5,13 +5,13 @@
     <parent>
         <groupId>it.codedoge</groupId>
         <artifactId>hello-mvn-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
         <relativePath>../hellomvnparent</relativePath>
     </parent>
 
     <groupId>it.codedoge</groupId>
     <artifactId>hello</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <dependencies>
         <dependency>

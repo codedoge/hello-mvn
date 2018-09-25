@@ -4,7 +4,7 @@
 
     <groupId>it.codedoge</groupId>
     <artifactId>hello-mvn-reactor</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -30,7 +30,7 @@
         <url>https://github.com/codedoge/hello-mvn</url>
         <connection>scm:git:git@github.com:codedoge/hello-mvn.git</connection>
         <developerConnection>scm:git:git@github.com:codedoge/hello-mvn.git</developerConnection>
-      <tag>hello-mvn-reactor-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>

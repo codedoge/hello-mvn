@@ -52,11 +52,6 @@
         </dependencies>
     </dependencyManagement>
 
-    <scm>
-        <url>https://github.com/codedoge/hello-mvn</url>
-        <connection>scm:git:https://github.com/codedoge/hello-mvn.git</connection>
-        <developerConnection>scm:git:https://github.com/codedoge/hello-mvn.git</developerConnection>
-    </scm>
 
 
 </project>

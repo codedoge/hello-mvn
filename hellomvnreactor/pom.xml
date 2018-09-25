@@ -15,5 +15,24 @@
         <module>../hello</module>
     </modules>
 
+    <distributionManagement>
+        <repository>
+            <id>nabs-releases</id>
+            <name>artifactory-releases</name>
+            <url>http://artifactory.deloitte-audit-analytics.com/artifactory/nabs2</url>
+        </repository>
+        <snapshotRepository>
+            <id>nabs-snapshots</id>
+            <name>artifactory-snapshots</name>
+            <url>http://artifactory.deloitte-audit-analytics.com/artifactory/nabs2-snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+    <scm>
+        <url>https://github.com/codedoge/hello-mvn</url>
+        <connection>scm:git:https://github.com/codedoge/hello-mvn.git</connection>
+        <developerConnection>scm:git:https://github.com/codedoge/hello-mvn.git</developerConnection>
+    </scm>
+
 
 </project>
